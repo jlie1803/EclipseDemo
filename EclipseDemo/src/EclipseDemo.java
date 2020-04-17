@@ -6,5 +6,6 @@ public class EclipseDemo {
 		System.out.println("Hello World");
 		System.out.println("My change");
 		System.out.println("Teammate's change");
+		System.out.println("My change");
 
 }
